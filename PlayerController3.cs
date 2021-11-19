@@ -8,7 +8,7 @@ public class PlayerController3 : MonoBehaviour
     [SerializeField] private Rigidbody2D rb;
     [SerializeField] private Animator anim;
 
-
+    public Animator anim;
 
   
 
